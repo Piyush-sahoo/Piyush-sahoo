@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif" alt="Header" width="100%"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQETKKCgvRR30g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725991527268?e=1743033600&v=beta&t=8madZRYtFV7cdlkFBvChzWjApU-cYV_Lz31B7xr_-0M" alt="Header" width="100%"/>
 </div>
 
 # 👋 Hi, I'm Piyush Sahoo!
@@ -14,15 +14,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-</div>
+
 
 ## 🎓 Education
 
@@ -67,15 +59,6 @@ mindmap
       Hugging Face
 ```
 
-### Technology Stack & Tools
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="70">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="70">
-</div>
 
 ### Technology Badges
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -98,17 +81,17 @@ mindmap
 ### 🔍 Research on Finding Research Gap
 - Leveraging LLMs and LangChain for academic research analysis
 - Implementing AI model selection through data-driven approaches
-- Timeline: May 2024 - Present
+
 
 ### 🤖 PHOTON - Personal Desktop Assistant
 - JARVIS-inspired assistant using Groq and Llama model
 - Agent-based task management with tool invocation
-- Timeline: Nov 2023 - Present
+
 
 ### ✍️ Blog Research and Writing Automation
 - CrewAI-powered content generation system
 - Integrated YouTube content extraction
-- Timeline: Nov 2023 - Present
+
 
 ## 🏆 Awards & Experience
 
@@ -131,17 +114,7 @@ mindmap
 - **Web Development**: Frontend specialist
 - **Public Speaking**: Engaging presenter
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Piyush-sahoo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-sahoo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-</div>
 
 ---
 <div align="center">
